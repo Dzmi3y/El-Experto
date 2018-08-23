@@ -1,0 +1,120 @@
+E:\Progr\kursach\Kursach second approach\Expert\Expert\bin\Debug\Expert.exe.config
+E:\Progr\kursach\Kursach second approach\Expert\Expert\bin\Debug\Expert.exe
+E:\Progr\kursach\Kursach second approach\Expert\Expert\bin\Debug\Expert.pdb
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\MainWindow.g.cs
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\App.g.cs
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert_MarkupCompile.cache
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert_MarkupCompile.lref
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\MainWindow.baml
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert.g.resources
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert.exe
+E:\Progr\kursach\Kursach second approach\Expert\Expert\obj\Debug\Expert.pdb
+D:\Expert\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+D:\Expert\Expert\obj\Debug\MainWindow.g.cs
+D:\Expert\Expert\obj\Debug\App.g.cs
+D:\Expert\Expert\obj\Debug\MainWindow.baml
+D:\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+D:\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+D:\Expert\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+D:\Expert\Expert\bin\Debug\El Experto.exe.config
+D:\Expert\Expert\bin\Debug\El Experto.exe
+D:\Expert\Expert\bin\Debug\El Experto.pdb
+D:\Expert\Expert\obj\Debug\El Experto_MarkupCompile.cache
+D:\Expert\Expert\obj\Debug\El Experto_MarkupCompile.lref
+D:\Expert\Expert\obj\Debug\El Experto.g.resources
+D:\Expert\Expert\obj\Debug\El Experto.exe
+D:\Expert\Expert\obj\Debug\El Experto.pdb
+g:\Expert\Expert\bin\Debug\El Experto.exe.config
+g:\Expert\Expert\bin\Debug\El Experto.exe
+g:\Expert\Expert\bin\Debug\El Experto.pdb
+g:\Expert\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+g:\Expert\Expert\obj\Debug\MainWindow.g.cs
+g:\Expert\Expert\obj\Debug\App.g.cs
+g:\Expert\Expert\obj\Debug\El Experto_MarkupCompile.cache
+g:\Expert\Expert\obj\Debug\El Experto_MarkupCompile.lref
+g:\Expert\Expert\obj\Debug\MainWindow.baml
+g:\Expert\Expert\obj\Debug\El Experto.g.resources
+g:\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+g:\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+g:\Expert\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+g:\Expert\Expert\obj\Debug\El Experto.exe
+g:\Expert\Expert\obj\Debug\El Experto.pdb
+F:\Expert\Expert\bin\Debug\El Experto.exe.config
+F:\Expert\Expert\bin\Debug\El Experto.exe
+F:\Expert\Expert\bin\Debug\El Experto.pdb
+F:\Expert\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+F:\Expert\Expert\obj\Debug\MainWindow.g.cs
+F:\Expert\Expert\obj\Debug\App.g.cs
+F:\Expert\Expert\obj\Debug\El Experto_MarkupCompile.cache
+F:\Expert\Expert\obj\Debug\El Experto_MarkupCompile.lref
+F:\Expert\Expert\obj\Debug\MainWindow.baml
+F:\Expert\Expert\obj\Debug\El Experto.g.resources
+F:\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+F:\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+F:\Expert\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+F:\Expert\Expert\obj\Debug\El Experto.exe
+F:\Expert\Expert\obj\Debug\El Experto.pdb
+F:\Expert Second Version\Expert\bin\Debug\El Experto.exe.config
+F:\Expert Second Version\Expert\bin\Debug\El Experto.exe
+F:\Expert Second Version\Expert\bin\Debug\El Experto.pdb
+F:\Expert Second Version\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+F:\Expert Second Version\Expert\obj\Debug\MainWindow.g.cs
+F:\Expert Second Version\Expert\obj\Debug\App.g.cs
+F:\Expert Second Version\Expert\obj\Debug\El Experto_MarkupCompile.cache
+F:\Expert Second Version\Expert\obj\Debug\El Experto_MarkupCompile.lref
+F:\Expert Second Version\Expert\obj\Debug\MainWindow.baml
+F:\Expert Second Version\Expert\obj\Debug\El Experto.g.resources
+F:\Expert Second Version\Expert\obj\Debug\Expert.Properties.Resources.resources
+F:\Expert Second Version\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+F:\Expert Second Version\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+F:\Expert Second Version\Expert\obj\Debug\El Experto.exe
+F:\Expert Second Version\Expert\obj\Debug\El Experto.pdb
+G:\Expert Second Version\Expert\bin\Debug\El Experto.exe.config
+G:\Expert Second Version\Expert\bin\Debug\El Experto.exe
+G:\Expert Second Version\Expert\bin\Debug\El Experto.pdb
+G:\Expert Second Version\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+G:\Expert Second Version\Expert\obj\Debug\MainWindow.g.cs
+G:\Expert Second Version\Expert\obj\Debug\App.g.cs
+G:\Expert Second Version\Expert\obj\Debug\El Experto_MarkupCompile.cache
+G:\Expert Second Version\Expert\obj\Debug\El Experto_MarkupCompile.lref
+G:\Expert Second Version\Expert\obj\Debug\MainWindow.baml
+G:\Expert Second Version\Expert\obj\Debug\El Experto.g.resources
+G:\Expert Second Version\Expert\obj\Debug\Expert.Properties.Resources.resources
+G:\Expert Second Version\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+G:\Expert Second Version\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+G:\Expert Second Version\Expert\obj\Debug\El Experto.exe
+G:\Expert Second Version\Expert\obj\Debug\El Experto.pdb
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\bin\Debug\El Experto.exe.config
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\bin\Debug\El Experto.exe
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\bin\Debug\El Experto.pdb
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\MainWindow.g.cs
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\App.g.cs
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\El Experto_MarkupCompile.cache
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\El Experto_MarkupCompile.lref
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\MainWindow.baml
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\El Experto.g.resources
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\Expert.Properties.Resources.resources
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\El Experto.exe
+E:\Progr\kursach\27.11.2017\Expert Second Version\Expert\obj\Debug\El Experto.pdb
+e:\Progr\kursach\El Expert (clean)\Expert\bin\Debug\El Experto.exe.config
+e:\Progr\kursach\El Expert (clean)\Expert\bin\Debug\El Experto.exe
+e:\Progr\kursach\El Expert (clean)\Expert\bin\Debug\El Experto.pdb
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\MainWindow.g.cs
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\App.g.cs
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\El Experto_MarkupCompile.cache
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\El Experto_MarkupCompile.lref
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\MainWindow.baml
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\El Experto.g.resources
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\Expert.Properties.Resources.resources
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\El Experto.exe
+e:\Progr\kursach\El Expert (clean)\Expert\obj\Debug\El Experto.pdb

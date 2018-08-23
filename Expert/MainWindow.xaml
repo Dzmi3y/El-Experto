@@ -1,0 +1,113 @@
+﻿<Window x:Class="Expert.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Expert"
+        mc:Ignorable="d"
+        Title="El Experto" Height="477.912" Width="659.94">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="120" />
+
+        </Style>
+    </Window.Resources>
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+        <ToolBar>
+            <Button Command="{Binding CommandOpendialog}">
+                <Label Content="Открыть"/>
+            </Button>
+            <Separator/>
+
+            <Button Command="{Binding CommandSavedialog}">
+                <Label Content="Сохранить"/>
+            </Button>
+            <Separator/>
+            
+        </ToolBar>
+
+
+        <Grid Name="WorkSpase" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TabControl>
+                <TabItem Name="MainTabItem" Header="Главная" >
+                    <Grid Name="MainGrid" >
+
+                        <Grid Name="QuestionsGrid" Visibility="{Binding QuestionsPanel}" KeyUp="QuestionsGrid_KeyUp" >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="6*"/>
+                                <RowDefinition Height="30"/>
+                            </Grid.RowDefinitions>
+
+                            <Label Name="QuestionLabel" Grid.Row="0" Content="{Binding Question}"/>
+                            <ListBox Name="AnswerVariantsListBox" Grid.Row="1" Visibility="{Binding FlagVariantsAnswersList}" ItemsSource="{Binding VariantsAnswers}" SelectedIndex="{Binding IndexVariantsAnswers}"/>
+                            <TextBox Name="AnswerVariantTextBox" Grid.Row="1" Visibility="{Binding FlagVariantAnsverText}" Text="{Binding VariantAnsverText}" Height="25" Width="250" VerticalAlignment ="Top"/>
+                            <Button Name="SaveUserAnswerButton" Grid.Row="2" Content="Ответить" Command="{Binding CommandToAnswerTheQuestion}"/>
+                        </Grid>
+                        <Grid Name="StartGrid"  Visibility="{Binding StartPanel}">
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="30"/>
+                                <RowDefinition Height="30"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <Label Name="PurposeLabel" Grid.Row="0" Content="Выбрать цель"/>
+                            <ListBox Name="PurposesListBox" Grid.Row="1"  ItemsSource="{Binding Path=User.ListPurposes}" SelectedIndex="{Binding IndexCurrentPurpose}"/>
+                            <Button Name="SerchPurposeButton"   Grid.Row="2"   HorizontalAlignment="Left"  Content="Достичь цель" Command="{Binding CommandAchievementOfPurpose}" />
+                            <Button Name="ResetButton"  Grid.Row="2" Content="Сброс" HorizontalAlignment ="Right"  Command="{Binding CommandReset}"/>
+                            <Label Name="CurrentAnswerLabel" Grid.Row="3" Content="Текущий ответ:"/>
+                            <ListBox Name="LastAnswerListBox" Grid.Row="4" BorderThickness="0" ItemsSource="{Binding MessageAnsver}" Background="LightGray" />
+                        </Grid>
+                    </Grid>
+                </TabItem>
+
+                <TabItem Name="AllAnswersTabItem" Header="Все ответы" >
+                    <Grid Name="ViewUserDataGrid">
+                        <TreeView BorderThickness="0" Name="ListUserAnswersTreeView"  Grid.Row="0">
+                            <TreeViewItem Header="Ответы" ItemsSource="{Binding TreeAns.Tree}"/>
+                        </TreeView>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+            <GroupBox Header="Редактор"  Grid.Column="1">
+                <Grid Name="RedactorGrid" >
+                    <Grid.RowDefinitions>
+                        <!--<RowDefinition Height="*"/>-->
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+
+                    <RichTextBox Name="RedactorRichTextBox" Grid.Row="0" Block.LineHeight="6" VerticalScrollBarVisibility="Auto"  HorizontalScrollBarVisibility="Auto" FontSize="11"/>
+                    
+                        <Button Name="AnaliseRedactorButton" Grid.Row="1" Content="Анализировать текст"   Command="{Binding CommandParseFromTextRedactor}" />
+                       
+                    
+
+                </Grid>
+            </GroupBox>
+        </Grid>
+
+
+
+        <StatusBar Grid.Row="2">
+            <Label Name="StatusLabel" Content="{Binding StatusString}"/>
+        </StatusBar>
+
+    </Grid>
+
+</Window>
